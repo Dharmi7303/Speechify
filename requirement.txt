@@ -1,0 +1,10 @@
+Python 3.6+
+PIL (Python Imaging Library)
+Pytesseract
+Tkinter
+Pygame
+SpeechRecognition
+Googletrans
+Pyperclip
+gTTS (Google Text-to-Speech)
+gtts-token
