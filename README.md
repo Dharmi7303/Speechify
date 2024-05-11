@@ -26,7 +26,6 @@ Welcome to Speechify Converter, a versatile tool for converting between text and
 
 1. Enter the text you want to convert into the text field.
 2. Click on the "Text to Speech" button to generate speech from the text.
-3. Adjust the playback speed as needed.
 
 ### Image to Text:
 
