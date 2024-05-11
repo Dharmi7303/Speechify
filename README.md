@@ -1,4 +1,4 @@
-# Speechify Converter 🎙️📤📥🔊
+# Speechify 🎙️📤📥🔊
 
 Welcome to Speechify Converter, a versatile tool for converting between text and speech, as well as translating text to different languages! 🌐📝🔉
 
