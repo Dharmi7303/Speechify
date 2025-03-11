@@ -60,7 +60,6 @@ Welcome to Speechify Converter, a versatile tool for converting between text and
 - Pyperclip
 - gTTS (Google Text-to-Speech)
 - gtts-token
-- [Insert any other dependencies here]
 
 ## How to Run 🏃‍♂️
 
